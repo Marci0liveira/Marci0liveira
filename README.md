@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marci0liveira
-- 👀 I’m interested in acquire and develop knowledge on Javascript, NodeJs, data persistence approaches (i.e.: SQL and NoSQL) in order to, at some point in the future,
+- 👀 I’m interested in acquiring and developing skills on Javascript, NodeJs, data persistence approaches (i.e.: ORM for SQL and NoSQL) in order to, at some point in the future,
 develop my own solution for problems within the music industry (I'm also a musician).
 - 🌱 I’m currently learning Javascript/NodeJs
 - 💞️ I’m looking to collaborate on any open source project, meanwhile I'll be honing my skills I'll also collaborate on a project that has a meaning.
